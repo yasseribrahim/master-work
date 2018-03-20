@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <concept value="snow" weight="0.37037036">
+        <word value="snow" weight="0.37037036">
+            <document frequency="3" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="3" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34144.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34168.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34161.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34170.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34160.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="covered" weight="0.2888889">
+            <document frequency="3" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="3" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="background" weight="0.26666668">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="grey" weight="0.26666668">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="trees" weight="0.24444444">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+        </word>
+        <word value="brown" weight="0.22962964">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34168.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34161.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34160.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+        </word>
+        <word value="sky" weight="0.22962964">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="snowboarder" weight="0.16296296">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34168.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34161.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34160.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="black" weight="0.14814815">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34168.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34161.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34160.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+        </word>
+        <word value="houses" weight="0.14814815">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="slope" weight="0.14814815">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34170.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+        </word>
+        <word value="kicker" weight="0.11851852">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+        </word>
+        <word value="jumping" weight="0.1037037">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+        </word>
+        <word value="cliff" weight="0.096296296">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+        </word>
+        <word value="landscape" weight="0.096296296">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+        </word>
+        <word value="meadows" weight="0.096296296">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+        </word>
+        <word value="white" weight="0.096296296">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+        </word>
+        <word value="foreground" weight="0.08888889">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+        </word>
+        <word value="blue" weight="0.08148148">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+        </word>
+        <word value="jacket" weight="0.074074075">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34168.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34161.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34160.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+        </word>
+        <word value="trousers" weight="0.074074075">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34168.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34161.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34160.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+        </word>
+        <word value="winter" weight="0.074074075">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+        </word>
+        <word value="wooded" weight="0.074074075">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+        </word>
+        <word value="hill" weight="0.06666667">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="meadow" weight="0.06666667">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34164.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34143.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+        </word>
+        <word value="mountains" weight="0.06666667">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+        </word>
+        <word value="house" weight="0.05925926">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34154.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34151.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34153.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34148.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34150.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+        </word>
+        <word value="lake" weight="0.05925926">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+        </word>
+        <word value="snowboard" weight="0.05925926">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34168.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34161.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34160.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34146.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+        </word>
+        <word value="green" weight="0.05185185">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+        </word>
+        <word value="hills" weight="0.044444446">
+            <document frequency="2" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+        </word>
+        <word value="view" weight="0.044444446">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+        </word>
+        <word value="rocky" weight="0.037037037">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+        </word>
+        <word value="coverd" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34156.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34158.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34170.eng"/>
+        </word>
+        <word value="goggles" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34144.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+        </word>
+        <word value="helmet" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34144.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+        </word>
+        <word value="road" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+        </word>
+        <word value="shade" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34140.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34134.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34137.eng"/>
+        </word>
+        <word value="ski" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34144.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+        </word>
+        <word value="snowboarders" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34170.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+        </word>
+        <word value="standing" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+        </word>
+        <word value="watching" weight="0.02962963">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34152.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+        </word>
+        <word value="boy" weight="0.022222223">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+        </word>
+        <word value="clouds" weight="0.022222223">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+        </word>
+        <word value="dark" weight="0.022222223">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="leafless" weight="0.022222223">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34129.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34130.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34131.eng"/>
+        </word>
+        <word value="riding" weight="0.022222223">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="sitting" weight="0.022222223">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34161.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34160.eng"/>
+        </word>
+        <word value="skis" weight="0.022222223">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34155.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+        </word>
+        <word value="surrounded" weight="0.022222223">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34201.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34139.eng"/>
+        </word>
+        <word value="fields" weight="0.014814815">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34200.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+        </word>
+        <word value="front" weight="0.014814815">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34138.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34136.eng"/>
+        </word>
+        <word value="kneeing" weight="0.014814815">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34163.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34168.eng"/>
+        </word>
+        <word value="mountain" weight="0.014814815">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="snowboards" weight="0.014814815">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34165.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34170.eng"/>
+        </word>
+        <word value="towards" weight="0.014814815">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34169.eng"/>
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34167.eng"/>
+        </word>
+        <word value="car" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+        </word>
+        <word value="carrying" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34145.eng"/>
+        </word>
+        <word value="country" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+        </word>
+        <word value="flowers" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+        </word>
+        <word value="forests" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+        </word>
+        <word value="gentle" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+        </word>
+        <word value="hazu" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34202.eng"/>
+        </word>
+        <word value="hazy" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34199.eng"/>
+        </word>
+        <word value="jump" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+        </word>
+        <word value="lakes" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+        </word>
+        <word value="landing" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+        </word>
+        <word value="leaning" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34141.eng"/>
+        </word>
+        <word value="lying" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34157.eng"/>
+        </word>
+        <word value="pants" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34166.eng"/>
+        </word>
+        <word value="pullover" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34147.eng"/>
+        </word>
+        <word value="pushing" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34133.eng"/>
+        </word>
+        <word value="range" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34162.eng"/>
+        </word>
+        <word value="ranges" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34198.eng"/>
+        </word>
+        <word value="skier" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34149.eng"/>
+        </word>
+        <word value="summit" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+        </word>
+        <word value="sun" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34135.eng"/>
+        </word>
+        <word value="walking" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34170.eng"/>
+        </word>
+        <word value="yellow" weight="0.0074074073">
+            <document frequency="1" name="/home/interactive/Desktop/Latest/indexing-engine/dataset/snowboarder/34218.eng"/>
+        </word>
+    </concept>
+</root>
